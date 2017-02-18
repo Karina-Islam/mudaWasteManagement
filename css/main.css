@@ -1,0 +1,14 @@
+body {
+background-color: white;
+}
+.thumbnail {width: 75%;
+height: 400px; }
+h1{
+	color: maroon;
+}
+h3{
+	color: maroon;
+
+}
+.image {display: inline;
+float: right ;}
